@@ -1,7 +1,7 @@
 {
     "name": "Vendetta Teal Modified",
     "description": "A theme based on Vendetta Teal color."
-    ],
+    ,
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
             "#fb4934",
