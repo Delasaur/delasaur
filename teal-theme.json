@@ -68,8 +68,8 @@
             "#00201f"
         ],
         "BACKGROUND_TERTIARY": [
-            "#060607",
-            "#060607"
+            "#002B36",
+            "#002B36"
         ],
         "CHANNELS_DEFAULT": [
             "#617b7a",
@@ -260,8 +260,8 @@
             "#0038375a"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#060607",
-            "#060607"
+            "#002B36",
+            "#002B36"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#0038375a",
