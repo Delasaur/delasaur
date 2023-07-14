@@ -4,8 +4,8 @@
     ,
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-
-            
+            "#fb4934",
+            "#9d0006"
         ],
         
         "BACKGROUND_FLOATING": [
@@ -13,16 +13,16 @@
             "#002B36"
         ],
         "BACKGROUND_MENTIONED": [
-
-            
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-
-            
+            "#0038375a",
+            "#0038375a"  
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-
-            
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#073642",
@@ -45,8 +45,8 @@
             "#006a68"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-
-            
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#002129",
@@ -96,81 +96,81 @@
             "#00201f",
             "#00201f"
         ],
-        "DEPRECATED_CARD_BG": [
-
-            
+                "DEPRECATED_CARD_BG": [
+            "#3bb8ba40",
+            "#9cf0f040"
         ],
         "DEPRECATED_CARD_EDITABLE_BG": [
-
-            
+            "#3bb8ba4d",
+            "#9cf0f04d"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DEPRECATED_STORE_BG": [
-
-            
+            "#affffe",
+            "#affffe"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER": [
-
-            
+            "#0000004d",
+            "#0000004d"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
-
-            
+            "#020202",
+            "#020202"
         ],
         "DEPRECATED_TEXT_INPUT_PREFIX": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
-
-            
+            "#00383780",
+            "#00383780"
         ],
         "ELEVATION_HIGH": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "ELEVATION_LOW": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "ELEVATION_MEDIUM": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "ELEVATION_STROKE": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "FOCUS_PRIMARY": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
-
-            
+            "#00201fcc",
+            "#00201fcc"
         ],
         "FORUM_POST_TAG_BACKGROUND": [
-
-            
+            "#00201fe6",
+            "#00201fe6"
         ],
         "GUILD_HEADER_TEXT_SHADOW": [
-
-            
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "HEADER_PRIMARY": [
             "#006a68",
